@@ -27,3 +27,10 @@ E:\CompanyEmp\CompanyEmployees\CompanyEmployees\obj\Debug\net5.0\CompanyEmployee
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\obj\Debug\net5.0\ref\CompanyEmployees.dll
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\obj\Debug\net5.0\CompanyEmployees.pdb
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\obj\Debug\net5.0\CompanyEmployees.genruntimeconfig.cache
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\nlog.config
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\NLog.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Contracts.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\LoggerService.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\LoggerService.pdb
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Contracts.pdb

@@ -1,0 +1,11 @@
+E:\CompanyEmp\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.deps.json
+E:\CompanyEmp\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.dll
+E:\CompanyEmp\CompanyEmployees\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+E:\CompanyEmp\CompanyEmployees\Contracts\bin\Debug\net5.0\Contracts.pdb
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.dll
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+E:\CompanyEmp\CompanyEmployees\Contracts\obj\Debug\net5.0\Contracts.pdb
