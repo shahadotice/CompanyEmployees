@@ -1,0 +1,12 @@
+E:\CompanyEmp\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\CompanyEmp\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.dll
+E:\CompanyEmp\CompanyEmployees\Entities\bin\Debug\net5.0\ref\Entities.dll
+E:\CompanyEmp\CompanyEmployees\Entities\bin\Debug\net5.0\Entities.pdb
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.dll
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\ref\Entities.dll
+E:\CompanyEmp\CompanyEmployees\Entities\obj\Debug\net5.0\Entities.pdb
