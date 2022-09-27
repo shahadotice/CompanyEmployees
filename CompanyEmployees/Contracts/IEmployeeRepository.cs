@@ -8,5 +8,6 @@ namespace Contracts
 {
    public interface IEmployeeRepository
     {
+        public void Create(bool data);
     }
 }
