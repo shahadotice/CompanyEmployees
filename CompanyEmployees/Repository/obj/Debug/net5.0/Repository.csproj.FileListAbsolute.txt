@@ -1,0 +1,17 @@
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.deps.json
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.dll
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\ref\Repository.dll
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Repository.pdb
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.dll
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.dll
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Contracts.pdb
+E:\CompanyEmp\CompanyEmployees\Repository\bin\Debug\net5.0\Entities.pdb
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.dll
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\ref\Repository.dll
+E:\CompanyEmp\CompanyEmployees\Repository\obj\Debug\net5.0\Repository.pdb

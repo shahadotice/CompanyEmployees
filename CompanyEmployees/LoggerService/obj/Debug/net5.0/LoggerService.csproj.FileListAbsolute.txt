@@ -13,3 +13,5 @@ E:\CompanyEmp\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.cspr
 E:\CompanyEmp\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.dll
 E:\CompanyEmp\CompanyEmployees\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
 E:\CompanyEmp\CompanyEmployees\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+E:\CompanyEmp\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.dll
+E:\CompanyEmp\CompanyEmployees\LoggerService\bin\Debug\net5.0\Entities.pdb

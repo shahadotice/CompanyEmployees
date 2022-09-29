@@ -68,3 +68,5 @@ E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Entities.dll
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Entities.pdb
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Humanizer.dll
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Repository.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Repository.pdb
