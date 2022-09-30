@@ -70,3 +70,9 @@ E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Humanizer.dll
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Repository.dll
 E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Repository.pdb
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\AutoMapper.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\CompanyEmp\CompanyEmployees\CompanyEmployees\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
